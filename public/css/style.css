@@ -1,0 +1,21 @@
+
+.users{
+	margin: 0px;
+}
+.messages { 
+    min-width: 300px;
+    min-height: 300px;
+    background: #f3f3f3;
+	padding: 1em;
+	overflow-y: auto;
+}
+.message_form{
+	padding: 1em;
+}
+
+.area-chat-box{ 
+    margin: 0px auto;
+    border: 2px solid #ccc;
+    border-radius: 10px;
+    padding: 0;
+}
