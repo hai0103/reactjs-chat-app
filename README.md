@@ -9,7 +9,7 @@ Build:
 	
 	npm run build
 
-Then run:
+Run:
 
     npm start
 
