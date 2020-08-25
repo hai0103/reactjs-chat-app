@@ -1,6 +1,4 @@
 
-## Running it
-
 First:
 
     npm install
