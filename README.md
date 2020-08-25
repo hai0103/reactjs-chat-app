@@ -1,16 +1,16 @@
 
 ## Running it
 
-First, grab the dependencies:
+First:
 
     npm install
 
-Build the applicaiton
+Build:
 	
 	npm run build
 
-Then run the app like so:
+Then run:
 
     npm start
 
-And navigate to `localhost:3000` and chat !
+=>>> Navigate to `localhost:3000` to chat
